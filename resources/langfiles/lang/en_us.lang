@@ -1196,6 +1196,16 @@ susy.material.heavy_mineral_tailing=Heavy Mineral Tailing
 susy.material.weakly_magnetic_heavy_mineral_tailing=Weakly Magnetic Heavy Mineral Tailing
 susy.material.non_magnetic_heavy_mineral_tailing=Non-Magnetic Heavy Mineral Tailing
 susy.material.zircon_monazite_concentrate=Zircon-Monazite Concentrate
+susy.material.acid_conditioned_soybean_oil=Acid-Conditioned Soybean Oil
+susy.material.neutralized_soybean_oil=Neutralized Soybean Oil
+susy.material.washed_neutralized_soybean_oil=Washed Neutralized Soybean Oil
+susy.material.clean_neutralized_soybean_oil=Clean Neutralized Soybean Oil
+susy.material.deoderizer_distillate=Deoderizer Distillate
+susy.material.saponified_deoderizer_distillate=Saponified Deoderizer Distillate
+susy.material.phytosterol_crystal_slurry=Phytosterol Crystal Slurry
+susy.material.mixed_phytosterols=Mixed Phytosterols
+susy.material.spent_clay=Spent Clay
+susy.material.isohexane=Isohexane
 
 # Thermodynamics
 

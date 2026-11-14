@@ -3942,5 +3942,51 @@ class UnknownCompositionMaterials {
                 .iconSet(SHINY)
                 .color(0xb21383)
                 .build()
+
+        AcidConditionedSoybeanOil = new Material.Builder(4825, SuSyUtility.susyId('acid_conditioned_soybean_oil'))
+                .liquid()
+                .color(0xfdff9e)
+                .build()
+
+        NeutralizedSoybeanOil = new Material.Builder(4826, SuSyUtility.susyId('neutralized_soybean_oil'))
+                .liquid()
+                .color(0xfff5d1)
+                .build()
+
+        WashedNeutralizedSoybeanOil = new Material.Builder(4827, SuSyUtility.susyId('washed_neutralized_soybean_oil'))
+                .liquid()
+                .color(0xfff1f4)
+                .build()
+
+        CleanNeutralizedSoybeanOil = new Material.Builder(4828, SuSyUtility.susyId('clean_neutralized_soybean_oil'))
+                .liquid()
+                .color(0xfff1fb)
+                .build()    
+
+        DeoderizerDistillate = new Material.Builder(4829, SuSyUtility.susyId('deoderizer_distillate'))
+                .liquid()
+                .color(0xf1fbff)
+                .build()   
+
+        SaponifiedDeoderizerDistillate = new Material.Builder(4830, SuSyUtility.susyId('saponified_deoderizer_distillate'))
+                .liquid()
+                .color(0xf1f4ff)
+                .build()
+
+        PhytosterolCrystalSlurry = new Material.Builder(4831, SuSyUtility.susyId('phytosterol_crystal_slurry'))
+                .liquid()
+                .color(0xbeccff)
+                .build()
+
+        MixedPhytosterols = new Material.Builder(4832, SuSyUtility.susyId('mixed_phytosterols'))
+                .liquid()
+                .color(0x7290ff)
+                .build()
+
+        SpentClay = new Material.Builder(4833, SuSyUtility.susyId('spent_clay'))
+                .dust()
+                .color(0x98a9ab)
+                .build()
+
     }
 }

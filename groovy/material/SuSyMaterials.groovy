@@ -930,7 +930,15 @@ class SuSyMaterials {
     public static Material LunarWeaklyMagnetic
     public static Material Ink
     public static Material RWGSCatalyst
-
+    public static Material AcidConditionedSoybeanOil
+    public static Material NeutralizedSoybeanOil
+    public static Material WashedNeutralizedSoybeanOil
+    public static Material CleanNeutralizedSoybeanOil
+    public static Material DeoderizerDistillate
+    public static Material SaponifiedDeoderizerDistillate
+    public static Material PhytosterolCrystalSlurry
+    public static Material MixedPhytosterols
+    public static Material SpentClay
 
     // Petrochem Materials
 
@@ -2831,6 +2839,7 @@ class SuSyMaterials {
     public static Material AbieticAcid
     public static Material DisproportionatedAbieticAcid
     public static Material AbieticAcidEmulsifier
+    public static Material Isohexane
 
     // Third Degree Materials
 

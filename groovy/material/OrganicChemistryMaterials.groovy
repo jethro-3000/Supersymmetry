@@ -4643,6 +4643,12 @@ class OrganicChemistryMaterials {
 
         AbieticAcidEmulsifier.setFormula('(C20H29O2Na)(H2O)', true)
 
+        Isohexane = new Material.Builder(15770, SuSyUtility.susyId('isohexane'))
+            .liquid()
+            .components(Carbon * 6, Hydrogen * 14)
+            .color(0xef990e)
+            .build()
+
 
     }
 }
